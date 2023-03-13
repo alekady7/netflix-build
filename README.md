@@ -1,4 +1,4 @@
-###LIVE LINK - https://netflix-build-7f7c6.web.app
+# LIVE LINK - https://netflix-build-7f7c6.web.app
 
 # Getting Started with Create React App and Redux
 
